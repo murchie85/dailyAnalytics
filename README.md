@@ -3,7 +3,10 @@
 
 ## AUTOMATED RESEARCH SUMMARY
 
-![image](twitterPostedImage.png)**Most trending image related to LaPen**
+![image](twitterPostedImage.png)  
+  
+**Most trending image related to LaPen**  
+
 <br></br>
 <b> This report is AUTOMATED and not hand crafted, it is designed for pulling metrics on a given keyword or hashtag and performs a series of reporting and analysis.</b>
 
